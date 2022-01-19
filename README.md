@@ -1,3 +1,3 @@
 # Practices
 
-The code practice finished recorded.
+The code practice finished record.
